@@ -67,22 +67,42 @@
 <img width="1757" height="878" alt="Screenshot 2026-10-29 165050" src="https://github.com/user-attachments/assets/2770863d-f489-4fe0-b4c4-114649b6f842" />
 
 ---
->
+> Triggers in Copilot Studio while building an agent
+
+<img width="1896" height="599" alt="Screenshot 2026-10-29 165314" src="https://github.com/user-attachments/assets/13fecd94-dfde-4946-a322-38d6d136cc33" />
+
+<img width="821" height="667" alt="Screenshot 2026-10-29 165426" src="https://github.com/user-attachments/assets/d7f9028a-1d14-4832-8409-534b688d2fd7" />
 
 ---
 
->
+> Connect using A2A agent protocol
+
+<img width="816" height="504" alt="Screenshot 2026-10-29 165456" src="https://github.com/user-attachments/assets/66b96d0b-6a25-4b42-9203-d47fdb3b78bd" />
+
+<img width="819" height="659" alt="Screenshot 2026-10-29 165505" src="https://github.com/user-attachments/assets/5eebe420-937c-4d0e-8f82-ff13668b596b" />
 
 ---
 
->
+> Options in Connected Agents
+
+<img width="1394" height="835" alt="Screenshot 2026-10-29 170151" src="https://github.com/user-attachments/assets/df564071-73a3-4ce6-ad08-a436c96c5391" />
 
 ---
 
->
+> How to delete an agent?
+
+<img width="1896" height="476" alt="Screenshot 2026-10-29 170402" src="https://github.com/user-attachments/assets/10a82c23-b8ea-4986-a3f4-4261153d6cab" />
 
 ---
 
+> Monitor agents last 365 days activities
+
+<img width="1894" height="791" alt="Screenshot 2026-10-29 170554" src="https://github.com/user-attachments/assets/fee9802e-848f-48af-a8b8-c2dd5e80f576" />
 
 ---
 
+> Sharing Agents - multiple link options
+
+<img width="1820" height="804" alt="Screenshot 2026-10-29 170737" src="https://github.com/user-attachments/assets/394e8b58-230a-40ce-aa29-14ef377180d5" />
+
+---
